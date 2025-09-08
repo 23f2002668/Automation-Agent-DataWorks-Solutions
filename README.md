@@ -1,4 +1,7 @@
-# **🟢 [Automation Agent – DataWorks Solutions](https://github.com/23f2002668/Automation-Agent-DataWorks-Solutions)**
+# **🟢 Automation Agent – DataWorks Solutions**
+---
+
+<br>
 
 * Developed a **Flask-based automation system** capable of executing 15+ distinct tasks, including **web scraping, log analysis, database queries, and data extraction**.
 * Implemented **Celery + Redis** for task orchestration, enabling **parallel execution** and reducing task completion time by **40%**.
