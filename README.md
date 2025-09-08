@@ -1,7 +1,7 @@
 # **🟢 Automation Agent – DataWorks Solutions**
 <br>
 
-* **Developer :** <b><i>Shahzada Moon</i></b>
+* **Developer :** <i>Shahzada Moon</i>
 ---
 
 <br>
